@@ -11,6 +11,7 @@ scanf("%d", &c);
 printf("enter fourth number :");
 scanf("%d", &d);
 sum=a+b+c+d;
-printf("the sum of %d,%d,%d,%d is %d\n",a,b,c,d,sum);
+printf("the sum of %d,%d,%d and %d is %d\n",a,b,c,d,sum);
 return 0;
 }
+
